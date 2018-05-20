@@ -1,3 +1,8 @@
+Deprecation warning
+===================
+
+This project is out of date and not maintained.
+
 Silhouette Slick Seed Template
 ==============================
 
