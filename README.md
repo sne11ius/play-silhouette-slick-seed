@@ -18,7 +18,9 @@ access.
 
 ## Example
 
-Currently, there is no live example of this template.
+Deploy your own example with one click:
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
 ## Features
 

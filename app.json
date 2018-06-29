@@ -1,0 +1,8 @@
+{
+  "name": "Silhouette Slick Seed Template",
+  "description": "The Silhouette Slick Seed project is an Activator template which shows how Silhouette can be implemented in Play",
+  "repository": "https://github.com/sne11ius/play-silhouette-slick-seed",
+  "addons": [],
+  "success_url": "/",
+  "keywords": ["play", "scala"]
+}
